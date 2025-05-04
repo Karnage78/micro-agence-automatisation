@@ -30,7 +30,7 @@ Aider les freelances, solopreneurs et petites entreprises à gagner du temps gr�
 
 Une idée ou un besoin à automatiser ?  
 Remplis le formulaire disponible sur la page ou contacte-moi directement.
-
+email : clem.bailla@gmail.com
 ---
 
 > 💼 Site en ligne : https://micro-agence-automatisation.vercel.app/
